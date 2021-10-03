@@ -1,4 +1,4 @@
--- Drops the adatabase if it exists currently --
+-- Drops the database if it exists currently --
 DROP DATABASE IF EXISTS school_rankings_db;
 
 -- Creates the database --
